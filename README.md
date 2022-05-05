@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martim Junior</h1>
+<h1 align="center">Hi 👋, I'm Martim Palmeira</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martimpalmeira&label=Profile%20views&color=0e75b6&style=flat" alt="martimpalmeira" /> </p>
