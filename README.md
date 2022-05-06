@@ -1,6 +1,6 @@
 <p align = "center"><img src="https://www.mxcursos.com/blog/wp-content/uploads/2017/04/front-end-ou-back-end-entenda-as-diferencas-e-descubra-o-seu-perfil.png" width = 100%></p>
 
-<h1 align="center">Hi 👋, I'm Martim Junior</h1>
+<h1 align="center">Hi 👋🏽, I'm Martim Junior</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
 - :computer: I’m currently learning **ReactJS, Node.js**
