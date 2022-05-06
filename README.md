@@ -34,9 +34,9 @@
 
 
 <h2 align="center">Profile stats</h2>
-<p align="center">&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en" alt="martimpalmeira" /></p>
-<p align="center"><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" /></p>
-<p align="center"><img align="center" width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=martimpalmeira&theme=default" alt="martimpalmeira" /></p>
+<p align="center">&nbsp;<img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en" alt="martimpalmeira" /></p>
+<p align="center"><img align="center" width=60% src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" /></p>
+<p align="center"><img align="center" width=60% src="https://github-readme-streak-stats.herokuapp.com/?user=martimpalmeira&theme=default" alt="martimpalmeira" /></p>
 
 
 
