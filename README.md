@@ -43,10 +43,10 @@
 
 
 <h2 align="center">Profile stats</h2>
-<img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en" alt="martimpalmeira" />
-<img align="right" width=48% src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en" alt="martimpalmeira" />
+<img align="right" width=47% src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" />
 
-<h6>.</h6>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martimjunior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martimjunior/" height="40" width="40" /></a>
