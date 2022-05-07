@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋🏽, I'm Martim Junior</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
-- 🔭 I’m currently studying on **BRQ Java Entry-Point**
+- :books: I’m currently studying on **BRQ Java Entry-Point**
 
 - :computer: I’m currently learning **ReactJS, Node.js**
 
-- 👨‍💻 All of my projects are available at [martimjrportfolio](https://github.com/martimpalmeira)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://github.com/martimpalmeira)
 
-- 💬  Ask me about **Spring Boot, Rest API**
+- :pushpin: I’m looking to work with **Spring Boot, Rest API**
 
 - :envelope_with_arrow: How to reach me **martim.desenvolvedor@gmail.com**
 
