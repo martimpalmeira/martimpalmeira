@@ -52,9 +52,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/martimjunior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martimjunior/" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5575981290360&text&app_absent=0" target="blank"><img align="center"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="@martim_desenvol1" height="50" width="50" /></a>
-<a href="https://discord.gg/Martim Junior#2175" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Martim Junior#2175" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/martimjunior/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martimjunior/" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5575981290360&text&app_absent=0" target="_blank"><img align="center"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="@martim_desenvol1" height="50" width="50" /></a>
+<a href="https://discord.gg/Martim Junior#2175" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Martim Junior#2175" height="40" width="40" /></a>
 </p>
 
 
