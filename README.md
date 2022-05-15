@@ -43,9 +43,9 @@
 
 
 <h2 align="center">Profile stats</h2>
-<img align="left" width=48% height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" />
+<img align="left" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" />
  
-<img align="center" width=48% height="200" src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="martimpalmeira" />
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="martimpalmeira" />
 
 
 <h2 align="left">Connect with me:</h2>
