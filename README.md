@@ -35,7 +35,7 @@
 
 <h3 align="left">Devops:</h2>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>  
-&nbsp <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="90" height="54"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/martimpalmeira/martimpalmeira/blob/main/AWS_Academy_EDU_Main.23db6ed773a0aea20eab21e985b65b8976c07610.png?raw=true" alt="aws" width="84" height="60"/> </a>
 
 <h3 align="left">Others:</h2>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>&nbsp
