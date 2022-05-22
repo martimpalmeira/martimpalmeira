@@ -7,7 +7,7 @@
 
 - :computer: I’m currently learning **ReactJS, Node.js**
 
-- 👨🏻‍💻 All of my projects are available at [my Portfolio](https://github.com/martimpalmeira](https://martimdesenvolvedo.wixsite.com/website))
+- 👨🏻‍💻 All of my projects are available at [my Portfolio](https://martimdesenvolvedo.wixsite.com/website)
 
 - :pushpin: I’m looking to work with **Spring Boot, Rest API**
 
