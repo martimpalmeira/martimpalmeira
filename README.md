@@ -5,7 +5,7 @@
 
 - :books: I’m currently studying on **BRQ Java Entry-Point**
 
-- :computer: I’m currently learning **ReactJS, Node.js**
+- :computer: I’m currently learning **ReactJS, Spring Boot**
 
 - 👨🏻‍💻 All of my projects are available at [my Portfolio](https://martimdesenvolvedo.wixsite.com/website)
 
