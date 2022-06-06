@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋🏽, I'm Martim Junior</h1>
+<h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
 - :books: I’m currently studying on **BRQ Java Entry-Point**
