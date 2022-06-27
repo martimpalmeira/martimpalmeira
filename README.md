@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
-- :books: I’m currently studying on **BRQ Java Entry-Point**
+- :computer: I am currently working as a Java developer at **BRQ Digital Solutions**
 
-- :computer: I’m currently learning **ReactJS, Spring Boot**
+- :books: I have experience with **ReactJS, Spring Boot**
 
 - 👨🏻‍💻 All of my projects are available at [my Portfolio](https://martimdesenvolvedo.wixsite.com/website)
 
-- :pushpin: I’m looking to work with **Spring Boot, Rest API**
+- :pushpin: I’m living in Salvador, Bahia in **Brazil**
 
 - :envelope_with_arrow: How to reach me **martim.desenvolvedor@gmail.com**
 
@@ -32,15 +32,14 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>&nbsp
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>
+
 
 <h3 align="left">Devops:</h2>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>&nbsp
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>  
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/martimpalmeira/martimpalmeira/blob/main/AWS_Academy_EDU_Main.23db6ed773a0aea20eab21e985b65b8976c07610.png?raw=true" alt="aws" width="84" height="60"/> </a>
 
-<h3 align="left">Others:</h2>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>&nbsp
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
+
 
 
 
