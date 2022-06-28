@@ -30,7 +30,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169910.png" alt="nodejs" width="60" height="60"/></a>&nbsp
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://o.remove.bg/downloads/cf02082d-edab-4fe5-9539-d37897d4dff7/image-removebg-preview.png" alt="mysql" width="60" height="60"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/appmasters-io/image/upload/v1624744345/mysql_87a2317566.png" alt="mysql" width="60" height="60"/></a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a> 
 
 
