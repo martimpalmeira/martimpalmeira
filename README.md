@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
-<h3 align="center">Full Stack | Software Engineer | DevOps</h3>
+<h4 align="center">Full Stack | Software Engineer | DevOps</h4>
 
 - :computer: I am currently working as a Software Developer at **BRQ Digital Solutions**
 
