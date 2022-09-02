@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
-<h3 align="center">A Full-Stack Developer from Brazil</h3>
+<h3 align="center"><i>A Full-Stack Developer from Brazil</i></h3>
 
-- :computer: I am currently working as a Java developer at **BRQ Digital Solutions**
+- :computer: I am currently working as a Software Developer at **BRQ Digital Solutions**
 
-- :books: I have experience with **Spring Boot, Angular Framework**
+- :books: I have experience with **Spring Boot** & **Angular Framework**
 
 - 👨🏻‍💻 All of my projects are available at [my Portfolio](https://martimdesenvolvedo.wixsite.com/website)
 
@@ -13,7 +13,7 @@
 
 - :envelope_with_arrow: How to reach me **martim.desenvolvedor@gmail.com**
 
-<h2 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <h3 align="left">Front-End:</h2>
 
@@ -52,18 +52,19 @@
 
 
 
-
-
-
 <h2 align="center">Profile stats</h2>
-<p align="center"><img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="martimpalmeira" /></p>
- 
-<p align="center"><img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="martimpalmeira" /></p>
- 
+
+<div align="center">
+
+| Top Languages                                                                                                                                                                                                                                                                         | GitHub Stats                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact)  | ![Top Languages](https://github-readme-stats.vercel.app/api?username=martimpalmeira&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en) |
+
+ <div>
 
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Contact me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/martimpalmeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" alt="linkedin_martim_junior" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=5575981290360&text&app_absent=0" target="_blank"><img align="center"src="https://seeklogo.com/images/W/whatsapp-logo-DC7B8794F9-seeklogo.com.png" alt="@martim_desenvol1" height="40" width="40" /></a>
