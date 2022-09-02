@@ -17,32 +17,38 @@
 
 <h3 align="left">Front-End:</h2>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" alt="html5" width="60"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" alt="css3" width="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" alt="javascript" width="60" height="60"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" alt="typescript" width="60"/> </a> 
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Angular-Dark.svg" alt="angular" width="60"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" alt="react" width="60" height="60"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg" alt="bootstrap" width="60" height="60"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" alt="figma" width="60" height="60"/></a>
+<p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" alt="html5" width="60"/></a>&nbsp
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" alt="css3" width="60"/></a>&nbsp
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" alt="javascript" width="60" height="60"/></a>&nbsp
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" alt="typescript" width="60"/></a>&nbsp
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Angular-Dark.svg" alt="angular" width="60"/></a>&nbsp
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" alt="react" width="60" height="60"/></a>&nbsp
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg" alt="bootstrap" width="60" height="60"/></a>&nbsp
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" alt="figma" width="60" height="60"/></a>&nbsp
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Dark.svg" alt="vsCode" width="60" height="60"/></a>
+</p>
 
 <h3 align="left">Back-End:</h2>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg" alt="java" width="60" height="60"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Spring-Dark.svg" alt="spring" width="60" height="60"/> </a> 
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Maven-Dark.svg" alt="maven" width="60" height="60"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg" alt="nodejs" width="60" height="60"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" alt="python" width="60" height="60"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Dark.svg" alt="postgresql" width="60" height="60"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" alt="mysql" width="60" height="60"/></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg" alt="mongodb" width="60" height="60"/></a> 
-
-
-<h3 align="left">DevOps:</h2>  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/AWS-Dark.svg" alt="aws" height="60"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" alt="docker" width="60" height="60"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg" alt="git" height="60"/> </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GitLab-Dark.svg" alt="gitlab" width="60" height="60"/>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Heroku.svg" alt="heroku" width="60" height="60"/>
+<p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg" alt="java" width="60" height="60"/></a>&nbsp
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Spring-Dark.svg" alt="spring" width="60" height="60"/></a>&nbsp 
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Maven-Dark.svg" alt="maven" width="60" height="60"/></a>&nbsp 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg" alt="nodejs" width="60" height="60"/></a>&nbsp
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" alt="python" width="60" height="60"/></a>&nbsp
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Dark.svg" alt="postgresql" width="60" height="60"/></a>&nbsp
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" alt="mysql" width="60" height="60"/></a>&nbsp 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg" alt="mongodb" width="60" height="60"/></a>&nbsp 
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Eclipse-Dark.svg" alt="eclipse" width="60" height="60"/></a> 
+</p>
+<h3 align="left">DevOps:</h2>
+<p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/AWS-Dark.svg" alt="aws" height="60"/></a>&nbsp
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" alt="docker" width="60" height="60"/></a>&nbsp
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg" alt="git" height="60"/></a>&nbsp
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GitLab-Dark.svg" alt="gitlab" width="60" height="60"/></a>&nbsp
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Heroku.svg" alt="heroku" width="60" height="60"/></a>
+</p>
 
 
 
