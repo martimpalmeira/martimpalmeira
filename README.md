@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
-<h3 align="center"><i>A Full-Stack Developer from Brazil</i></h3>
+<h3 align="center">Full Stack | Software Engineer | DevOps</h3>
 
 - :computer: I am currently working as a Software Developer at **BRQ Digital Solutions**
 
 - :books: I have experience with **Spring Boot** & **Angular Framework**
 
-- 👨🏻‍💻 All of my projects are available at [my Portfolio](https://martimdesenvolvedo.wixsite.com/website)
+- 👨🏻‍💻 All of my projects are available at <i>[my Portfolio](https://martimdesenvolvedo.wixsite.com/website)</i>
 
 - :pushpin: I’m living in Salvador, Bahia in **Brazil**
 
