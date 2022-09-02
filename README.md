@@ -66,9 +66,9 @@
 
 <h2 align="left">Contact me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/martimpalmeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" alt="linkedin_martim_junior" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5575981290360&text&app_absent=0" target="_blank"><img align="center"src="https://seeklogo.com/images/W/whatsapp-logo-DC7B8794F9-seeklogo.com.png" alt="@martim_desenvol1" height="40" width="40" /></a>
-<a href="https://discord.gg/Martim Junior#2175" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Discord.svg" alt="Martim Junior#2175" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/martimpalmeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" alt="linkedin_martim_junior" height="40" width="40" /></a>&nbsp
+<a href="https://api.whatsapp.com/send/?phone=5575981290360&text&app_absent=0" target="_blank"><img align="center"src="https://seeklogo.com/images/W/whatsapp-logo-DC7B8794F9-seeklogo.com.png" alt="@martim_desenvol1" height="40" width="40" /></a>&nbsp
+<a href="https://discord.gg/Martim Junior#2175" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Discord.svg" alt="Martim Junior#2175" height="40" width="40" /></a>&nbsp
 <a href="https://stackoverflow.com/users/19900547/martim-palmeira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/StackOverflow-Dark.svg" alt="Stack overflow" height="40" width="40" /></a>
 </p>
 
