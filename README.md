@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
 <h4 align="center">Full Stack | Software Engineer | DevOps</h4>
 
+<img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" alt="html5" width="300"/>
+
 - :computer: I am currently working as a Software Developer at **BRQ Digital Solutions**
 
 - :books: I have experience with **Spring Boot** & **Angular Framework**
@@ -12,6 +14,7 @@
 - :pushpin: I’m living in Salvador, Bahia in **Brazil**
 
 - :envelope_with_arrow: How to reach me **martim.desenvolvedor@gmail.com**
+
 
 <h2 align="center">Languages and Tools</h2>
 
