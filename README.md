@@ -7,7 +7,7 @@
 
 - :computer: I am currently working as a Software Developer at **BRQ Digital Solutions**
 
-- :books: I have experience with **Spring Boot** & **Angular Framework**
+- :books: I have experience with `Spring Boot` & `Angular Framework`
 
 - 👨🏻‍💻 All of my projects are available at <i>[my Portfolio](https://martimdesenvolvedo.wixsite.com/website)</i>
 
