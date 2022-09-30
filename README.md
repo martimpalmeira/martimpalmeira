@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Martim Palmeira</h1>
-<h4 align="center">Full Stack | Software Engineer | DevOps</h4>
+<h4 align="center">Front End Developer | Software Engineer | Web Developer</h4>
 
 <img align="right" src="https://github.com/martimpalmeira/martimpalmeira/blob/main/gif-readme-github.gif?raw=true" alt="developer-gif" width="300"/>
 
-- :computer: I am currently working as a Software Developer at **BRQ Digital Solutions**
+- :computer: I am currently working as a Software Developer at **T-Systems**
 
-- :books: I have experience with `Spring Boot` & `Angular Framework`
+- :books: I have experience with `ReactJS` & `Angular 2+`
 
 - 👨🏻‍💻 All of my projects are available at <i>[my Portfolio](https://martimdesenvolvedo.wixsite.com/website)</i>
 
